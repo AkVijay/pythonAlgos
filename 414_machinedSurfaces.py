@@ -26,9 +26,3 @@ if __name__ == '__main__':
             countF += value - maxB
 
         print(countF)
-
-
-
-
-
-
